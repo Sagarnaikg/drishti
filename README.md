@@ -55,6 +55,9 @@ whenever user takes a picutre.
 🤖 **DL model:** TensorFlow, Keras, ResNet50, RNN
 
 ##
+## Flow Diagram
+![flowchart](https://github.com/Sagarnaikg/drishti/blob/main/flowchart.png)
+##
 ## Deep-Learning Model
 
 Download the Flickr8k dataset from [here](). and copy it to 
@@ -192,9 +195,8 @@ Libraries used in the project
 For help getting started with Flutter, refer
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference for flutter.
+##
 
-
-## Flow Diagram
 ## Refrences
 Please Have a loook at our papper work on drishti [here]().
 
