@@ -60,7 +60,7 @@ whenever user takes a picutre.
 ##
 ## Deep-Learning Model
 
-Download the Flickr8k dataset from [here](). and copy it to 
+Download the Flickr8k dataset from [here](https://www.kaggle.com/datasets/adityajn105/flickr8k). and copy it to 
 `Flickr_Data` folder inorder to run the notebook file.
 
 Our deep learning model contains main two steps.
@@ -198,6 +198,6 @@ samples, guidance on mobile development, and a full API reference for flutter.
 ##
 
 ## Refrences
-Please Have a loook at our papper work on drishti [here]().
+Please Have a loook at our papper work on drishti [here]([https://www.kaggle.com/datasets/adityajn105/flickr8k](https://github.com/Sagarnaikg/drishti/blob/main/DRISHTI%20-%20paper_publish.pdf)).
 
 
