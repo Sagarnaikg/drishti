@@ -6,9 +6,9 @@ The Smart Application 📱 for Blind Assistance.
 ##
 
 ## 🗂 Project folders 
- - 📱 [Drishti Mobile App](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - ⚙️ [Drishti Backend Api](https://github.com/matiassingers/awesome-readme)
- - 🤖 [Drishti DL Model ](https:/bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - 📱 [Drishti Mobile App](https://github.com/Sagarnaikg/drishti-app)
+ - ⚙️ [Drishti Backend Api](https://github.com/Sagarnaikg/drishti-api)
+ - 🤖 [Drishti DL Model ](https://github.com/Sagarnaikg/drishti/tree/main/drishti-dl-model)
 
 ##
 ## Drishti Objective
