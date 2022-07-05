@@ -142,7 +142,7 @@ Retruns
 Post an Image and get a caption
 
 ```http
-  GET /upload
+  PUT /upload
 ```
 
 | Parameter | Type     | Description                       |
