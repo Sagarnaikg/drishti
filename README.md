@@ -198,6 +198,6 @@ samples, guidance on mobile development, and a full API reference for flutter.
 ##
 
 ## Refrences
-Please Have a loook at our papper work on drishti [here]([https://www.kaggle.com/datasets/adityajn105/flickr8k](https://github.com/Sagarnaikg/drishti/blob/main/DRISHTI%20-%20paper_publish.pdf)).
+Please Have a loook at our papper work on drishti [here](https://github.com/Sagarnaikg/drishti/blob/main/DRISHTI%20-%20paper_publish.pdf).
 
 
