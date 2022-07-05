@@ -58,7 +58,7 @@ whenever user takes a picutre.
 ## Flow Diagram
 ![flowchart](https://github.com/Sagarnaikg/drishti/blob/main/flowchart.png)
 ##
-## Deep-Learning Model
+## 🤖 Deep-Learning Model
 
 Download the Flickr8k dataset from [here](https://www.kaggle.com/datasets/adityajn105/flickr8k). and copy it to 
 `Flickr_Data` folder inorder to run the notebook file.
@@ -117,7 +117,7 @@ def generator(photo, caption):
 ```
 
 ##
-## Backend API
+## ⚙️ Backend API
 
 Our backend is built using `flask` library and 
 deployed on `heroku` server
