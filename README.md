@@ -158,7 +158,7 @@ Retruns
 | `result` | `string` | Image caption |
 
 ##
-## Drishti Mobile App
+## 📱 Drishti Mobile App
 
 Mobile App built using Flutter framework. 
 
