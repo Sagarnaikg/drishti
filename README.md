@@ -182,7 +182,7 @@ app
 
 
 
-Libraries used in the project
+📦 Libraries used in the project
 - flutter_speech
 - flutter_tts
 - flare_flutter
