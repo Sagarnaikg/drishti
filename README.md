@@ -3,6 +3,9 @@
 
 The Smart Application 📱 for Blind Assistance.
 
+# Demo
+<img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-test.png" alt="PS5"/>
+
 ##
 
 ## 🗂 Project folders 
