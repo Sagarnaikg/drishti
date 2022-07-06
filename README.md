@@ -13,36 +13,22 @@ The Smart Application 📱 for Blind Assistance.
 ##
 ## Drishti Objective
 
-A person 🧑🏻 with vision impairment or low vision generally requires a helper for their daily necessities. It's not practically possible that a helper is available most of the time to help them, so Drishti will acts as an assistant to the visually impaired by captioning the images 🏞 and assisting the information with voice 🗣.
+A person with low vision or vision impairment often needs a caregiver's assistance for their everyday needs. Because a helper is not always accessible to aid them, Drishti will function as an assistant to the visually impaired by captioning their surroundings and will convey the information in the form of speech.
 
 ##
 ## How's the app 📱 works is 
-In a nutshell, the smart app will guide the visually 
-impaired through voice messages 🗣. When user opens drishti app 📱
-it will give short introduction about it 🙋‍♀️ and will ask the 
-users to give their name and then ask them to say the command 🗣
-“START DRISHTI” to 
-start the application.
+In a nutshell, the smart programme will guide the visually handicapped via audio communications. When a user launches the Drishti app, it will offer a brief introduction to the app, ask for their name, and then ask them to speak the command "START DRISHTI" to launch the application.
 
-Now, the app 📱 takes users to the main page, where 
-the real magic happens. User need to say the command "Drishti take 
-a picture 🏞" then it will take a picutre and after few seconds 
-it will describe the taken image through voice message 🗣.When 
-user says "Drishti stop", tha app 📱 will close.
 
-When the app takes a picutre 🏞, it will sent it to drishti backend ⚙️ 
-where it is processed and will send a caption text back to app 📱 within 
-fraction of sections. Finally app recives the text message and 
-will convey it to user through voice message 🗣. This processe repeats 
-whenever user takes a picutre.
+The app now redirects visitors to the main app screen, where the actual magic takes place. The user must utter the command "Drishti take a photo," and it will snap a picture and describe it through a voice message after a few seconds. The app will close when the user says "Drishti stop."
 
 ##
 ## App Features
 
-- Fully controlled using voice commands 🗣.
-- 📱 App is avialable for both android and ios users.
-- 📱 App can be setuped with simple few steps.
-- 📱 App will take just a few seconds to convert image into sentences
+- Voice commands are used to control everything 🗣.
+- 📱 Both Android and iOS users may access the app.
+- 📱 The app may be set up in a few simple steps.
+- 📱 The app will turn an image into phrases in a matter of seconds.
 
 
 ##
@@ -61,7 +47,7 @@ whenever user takes a picutre.
 ## 🤖 Deep-Learning Model
 
 Download the Flickr8k dataset from [here](https://www.kaggle.com/datasets/adityajn105/flickr8k). and copy it to 
-`Flickr_Data` folder inorder to run the notebook file.
+`Flickr_Data` folder in-order to run the notebook file.
 
 Our deep learning model contains main two steps.
 
